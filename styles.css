@@ -27,3 +27,11 @@ body {
     margin: 0 0 10px;    
     padding: 10px;
 }
+
+.primary-box em {
+    color: blue;
+}
+
+.secondary-box em {
+    color: fuchsia;
+}
