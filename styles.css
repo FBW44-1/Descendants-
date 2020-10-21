@@ -27,3 +27,11 @@ body {
     margin: 0 0 10px;    
     padding: 10px;
 }
+
+em.purple{
+    color: #32b0ff;
+}
+
+em.pink{
+    color: #fc3fff;
+}
