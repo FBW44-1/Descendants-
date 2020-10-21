@@ -20,6 +20,10 @@ body {
     padding: 10px;
 }
 
+.primary-box em{ color: blue}
+
+.secondary-box em{ color: violet}
+
 .secondary-box {
     background: #eee;
     color: #222;
