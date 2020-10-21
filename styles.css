@@ -9,7 +9,8 @@ body {
     font-family: Georgia, Times, serif;
     color: #fff;
     text-align: center;
-    font-size: 50px;    
+    font-size: 50px;   
+    
 }
 
 .primary-box {
@@ -19,6 +20,10 @@ body {
     margin: 0 0 10px;
     padding: 10px;
 }
+div.primary-box>p>em{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 .secondary-box {
     background: #eee;
@@ -26,4 +31,9 @@ body {
     font-size: 24px;
     margin: 0 0 10px;    
     padding: 10px;
+}
+
+div.secondary-box>p>em{
+    color: rgb(235, 6, 235);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
